@@ -16,10 +16,9 @@ setup(
     packages=find_packages(exclude=["tests*"]),
     version=get_version(),
     license="MIT",
-    description="AWS Simple Email Service wrapper",
+    description="Data common code for AWS Simple Email Service by Equinox",
     long_description=open("README.rst").read(),
     author="Equinox Fitness",
-    url="https://github.com/equinoxfitness/datacoco-email_tools",
     install_requires=requires,
     classifiers=[
         "Development Status :: 5 - Production/Stable",
