@@ -19,7 +19,7 @@ class TestEmail(unittest.TestCase):
 
         mock_send_email_with_attachment.return_value = self.expected_response
 
-        response = self.email.send_email_with_attachment(
+        response = self.email.send_email_with_attachment(  # nosec
             aws_access_key="aws_access_key",
             aws_secret_key="aws_secret_key",
             aws_sender="aws_sender",
@@ -39,7 +39,7 @@ class TestEmail(unittest.TestCase):
 
         mock_send_mail.return_value = self.expected_response
 
-        response = self.email.send_mail(
+        response = self.email.send_mail(  # nosec
             aws_access_key="aws_access_key",
             aws_secret_key="aws_secret_key",
             aws_sender="aws_sender",
