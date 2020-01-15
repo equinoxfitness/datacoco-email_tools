@@ -68,7 +68,7 @@ class TestEmail(unittest.TestCase):
 
         mock_send.return_value = self.expected_response
 
-        self.email = Email(
+        self.email = Email(  # nosec
             recipients="email@email.com",
             subject="hello world",
             aws_access_key="aws_access_key",
@@ -91,7 +91,7 @@ class TestEmail(unittest.TestCase):
         from_addr = "email@gmail.com"
         filepath = "tests/test_data/helloworld.txt"
 
-        self.email = Email(
+        self.email = Email(  # nosec
             recipients="email@email.com",
             subject="hello world",
             aws_access_key="aws_access_key",
