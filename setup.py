@@ -2,7 +2,7 @@ import os
 import re
 from setuptools import setup, find_packages
 
-requires = ["boto3==1.10.28"]
+requires = ["boto3==1.*"]
 
 
 def get_version():
