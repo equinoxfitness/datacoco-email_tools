@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+## [0.1.3] - 2020-04-01
+### Changed
+    - Change boto major and patch version to open
+
 ## [0.1.2] - 2020-02-21
 ### Changed
     - Add Issue Template
@@ -32,6 +36,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
     - Add pull request template
     - Add Code of Conduct
 
+[0.1.3]: https://github.com/equinoxfitness/datacoco-email_tools/compare/0.1.2...0.1.3
 [0.1.2]: https://github.com/equinoxfitness/datacoco-email_tools/compare/0.1.1...0.1.2
 [0.1.1]: https://github.com/equinoxfitness/datacoco-email_tools/compare/0.1.0...0.1.1
 [0.1.0]: https://github.com/equinoxfitness/datacoco-email_tools/releases/tag/0.1.0
