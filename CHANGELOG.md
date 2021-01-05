@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+## [0.1.3] - 2021-01-05
+### Changed
+    - Fix build conflicts
+
 ## [0.1.3] - 2020-04-01
 ### Changed
     - Change boto major and patch version to open
