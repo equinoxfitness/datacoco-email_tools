@@ -40,6 +40,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
     - Add pull request template
     - Add Code of Conduct
 
+[0.1.4]: https://github.com/equinoxfitness/datacoco-email_tools/compare/0.1.3...0.1.4
 [0.1.3]: https://github.com/equinoxfitness/datacoco-email_tools/compare/0.1.2...0.1.3
 [0.1.2]: https://github.com/equinoxfitness/datacoco-email_tools/compare/0.1.1...0.1.2
 [0.1.1]: https://github.com/equinoxfitness/datacoco-email_tools/compare/0.1.0...0.1.1
